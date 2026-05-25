@@ -1,6 +1,4 @@
-# Backdoor Defense for Generative LLMs
-
-A framework for evaluating backdoor attacks and defenses on generative large language models.
+Code for 'GradSentry: Gradient Spectral Entropy for Backdoor Sample Filtering in Large Language Model Fine-Tuning'
 
 ## Installation
 
